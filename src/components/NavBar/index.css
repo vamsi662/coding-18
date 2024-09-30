@@ -1,0 +1,53 @@
+.navbar-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.header-con {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 90%;
+  max-width: 900px;
+}
+
+.logo-con {
+  display: flex;
+}
+
+.game-title {
+  color: white;
+  font-size: 20px;
+  margin-left: 5px;
+  font-weight: 700;
+}
+
+p {
+  color: white;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.score-con {
+  display: flex;
+  flex-direction: row;
+}
+
+.score-display {
+  color: white;
+  margin: 5px;
+  font-size: 18px;
+  font-weight: 700;
+  margin-right: 10px;
+}
+
+.topscore-display {
+  color: white;
+  margin: 5px;
+  font-size: 18px;
+  font-weight: 700;
+  margin-right: 10px;
+}

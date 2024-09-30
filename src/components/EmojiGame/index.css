@@ -1,0 +1,19 @@
+.main-con {
+  background-image: linear-gradient(-45deg, #9796f0, #fbc7d4);
+  height: 100vh;
+}
+
+.allemoji-con {
+  width: 90%;
+  max-width: 900px;
+  margin: auto;
+  margin-top: 10px;
+}
+
+.emoji-list-con {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  list-style-type: none;
+  padding: 0;
+}
